@@ -1,0 +1,60 @@
+cs^NMSSM(gg -> h1 -> a1 a1 -> 4mu)
+and
+cs^NMSSM(bb->h1 -> a1 a1 -> 4mu)
+
+
+to calculate these CS we need
+to use the following parameters from the NMSSM scan
+(so whoever is scanning, please save these pars for every scanned point)
+
+BRJJ(1)    which is Br(h1->gg)
+WIDTH(1)   which is Gamma_tot  of h1
+BRHAA(1,1) which is Br(h1->a1 a1)
+BRMM(4)    which is Br(a1-> mu mu)
+CD(1)      which is thre reduced bbh1 coupling G^NMSSM(bbh1)
+
+more details about these pars are in nmspec.f file
+Using these pars we will calculate the cs we need:
+
+1)
+   a)
+   cs^NMSSM(gg->h1)  =  cs^SM(gg->H)*Gamma^NMSSM(ggh1)/Gamma^SM(ggH)
+   
+  = cs^SM(gg->H)*BRJJ(1)*WIDTH(1)/Gamma^SM(ggH)
+
+   where Gamma^SM(ggH) and  cs^SM(gg->H) will be provided by me as a
+   tabulated functions of the Higgs mass
+
+so,
+    b) cs^NMSSM(gg -> h1 -> a1 a1 -> 4mu)
+      = cs^NMSSM(gg->h1)*BRHAA(1,1)*BRMM(4)^2
+
+3) now we need to calculate
+   cs^NMSSM(bb->h1 -> a1 a1 -> 4mu)
+
+   in analogy with 1), we have
+
+   a)
+   cs^NMSSM(bb->h1)  =  cs^SM(bb->H)*G^NMSSM(bbh1)^2 = cs^SM(bb->H)*CD1^2
+   where cs^SM(bb->H) will be provided by me as a 
+   tabulated functions of the Higgs mass
+
+   b) so
+    cs^NMSSM(bb -> h1 -> a1 a1 -> 4mu) = cs^SM(bb->H)*CD1^2*BRHAA(1,1)*BRMM(4)^2
+
+
+This is basically it. So, from now please keep saving mentioned above pars
+BRJJ(1)    which is Br(h1->gg)
+WIDTH(1)   which is Gamma_tot  of h1
+BRHAA(1,1) which is Br(h1->a1 a1)
+BRMM(4)    which is Br(a1-> mu mu)
+CD(1)      which is thre reduced bbh1 coupling G^NMSSM(bbh1)
+
+I will send you tabulated functions shortly.
+
+Let me know if you have any questions, please.
+
+Cheers,
+        Sasha
+
+

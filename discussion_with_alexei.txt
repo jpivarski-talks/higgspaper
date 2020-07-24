@@ -1,0 +1,48 @@
+Phenomenology
+
+mass of m_h directly related to mu kappa/lambda (Fig 1)
+single plot: merge h_1 and h_2
+
+"unphysical region" -> bold font: Sasha, find a better word
+
+Fig 2 and 4 side-by-side
+
+Fig 3 (branching fractions) goes to a later section
+
+Fig 5-a: a_1 singlet fraction versus mu kappa/lambda, array-join it to the top of 5-b
+
+Fig 6: probably excessive, keep it for now
+add Gamma(h1 -> WW*)
+
+B. Production and decay rates (first we discussed the model, now how
+would we find it experimentally?)
+
+Production rates before decays
+
+Branching of a_1 -> mu mu
+
+Fig 7 is horrific in B&W, require low m_a as an additional two plots
+(four plots total, we'll kill some of them)
+
+Fig 10: "(pb, 14 TeV)"
+
+
+-----------------------------------------
+
+1. low m_a region not explored much
+2. we find the region corresponding to low m_a
+3. select m_a < 3.55 GeV
+4. explain two possible scenarios: large Br(h -> aa), small Br(h -> aa)
+5. explain WMAP consistent
+6. searches at colliders: production rates at LEP, Tevatron, and LHC
+
+branching fractions before production
+
+Fig 5 (Br(a -> mu mu)) should come after h_1 plots
+
+Fig 7 (Br(h -> aa)) should also be earlier
+
+Fig 10 (hadron collider exclusion): Tevatron open circles (and rough curve), LEP open circles
+one plot with WMAP, one without
+
+Fig 8, 9, 11, 14 should just go      DONE

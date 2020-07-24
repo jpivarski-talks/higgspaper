@@ -1,0 +1,444 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2009.10.2)  25 NOV 2009 18:11
+entering extended mode
+**h2a.tex
+(h2a.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+(revtex4.cls
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(D:\MikTex\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+ (D:\MikTex\tex\latex\natbib\natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(revsymb.sty
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)) (aps.rtx
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+) (10pt.rtx
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+) (D:\MikTex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\MikTex\tex\latex\graphics\graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\MikTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(D:\MikTex\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(D:\MikTex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(D:\MikTex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+LaTeX Info: Redefining \frak on input line 135.
+LaTeX Info: Redefining \Bbb on input line 137.
+))
+(D:\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(D:\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen104
+))
+(D:\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(D:\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks19
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks20
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks21
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(D:\MikTex\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+ (D:\MikTex\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+ (D:\MikTex\tex\latex\graphics\dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)) (axodraw.sty (epsf.sty
+\epsffilein=\read1
+\epsfxsize=\dimen113
+\epsfysize=\dimen114
+\epsftsize=\dimen115
+\epsfrsize=\dimen116
+\epsftmp=\dimen117
+\pspoints=\dimen118
+\epsfhbpsize=\dimen119
+\epsfvbpsize=\dimen120
+)
+(D:\MikTex\tex\generic\dvips\colordvi.sty)
+(D:\MikTex\tex\generic\dvips\rotate.tex
+\rotdimen=\dimen121
+))
+(D:\MikTex\tex\latex\tools\dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+ (D:\MikTex\tex\latex\tools\array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen122
+\extrarowheight=\dimen123
+\NC@list=\toks23
+\extratabsurround=\skip48
+\backup@length=\skip49
+))
+(phys_def.tex
+\c@hours=\count105
+\c@minutes=\count106
+) (h2a.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+Class revtex4 Info: Patching array package. on input line 36.
+Class revtex4 Info: cite was not loaded (OK!) on input line 36.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 65.
+ (D:\MikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 65.
+
+(D:\MikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+
+Class revtex4 Warning: If you want your PACS to appear in your output, use docu
+ment class option showpacs.
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 159--166
+\OT1/cmr/m/n/10 mode has ex-cel-lent sen-si-tiv-ity for Light-est CP-even
+ []
+
+[1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 245.
+
+ (D:\MikTex\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 245.
+
+Underfull \hbox (badness 1997) in paragraph at lines 252--264
+\OT1/cmr/m/n/10 sec-tor at loop-level) were fixed at $\OML/cmm/m/it/10 M[]=M[]=
+M[] \OT1/cmr/m/n/10 =
+ []
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 274.
+
+File: plots/newbranching/smass12_vs_mkovel.eps Graphic file (type eps)
+<plots/newbranching/smass12_vs_mkovel.eps>
+File: plots/newbranching/ma_vs_akappa_vs_lambda.eps Graphic file (type eps)
+
+<plots/newbranching/ma_vs_akappa_vs_lambda.eps> [2]
+File: plots/newbranching/scomp13_vs_mkoverl.eps Graphic file (type eps)
+
+<plots/newbranching/scomp13_vs_mkoverl.eps>
+File: plots/newbranching/brhaa_vs_lambda_vs_mkoverl.eps Graphic file (type eps)
+
+
+<plots/newbranching/brhaa_vs_lambda_vs_mkoverl.eps>
+Underfull \hbox (badness 1515) in paragraph at lines 358--381
+\OT1/cmr/m/n/10 Stan-dard Model par-ti-cles, are de-ter-mined by their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--381
+
+ []
+
+File: plots/newbranching/gammabb_vs_mkoverl.eps Graphic file (type eps)
+<plots/newbranching/gammabb_vs_mkoverl.eps>
+File: plots/newbranching/gammaww_vs_mkoverl.eps Graphic file (type eps)
+
+<plots/newbranching/gammaww_vs_mkoverl.eps>
+File: plots/newbranching/bra_vs_ma.eps Graphic file (type eps)
+ <plots/newbranching/bra_vs_ma.eps>
+File: plots/newbranching/darkmatter.eps Graphic file (type eps)
+
+<plots/newbranching/darkmatter.eps> [3]
+Underfull \hbox (badness 2035) in paragraph at lines 463--471
+[]\OT1/cmr/bx/n/10 WMAP con-straints on Cold Dark Mat-ter
+ []
+
+[4]
+File: plots/newbranching/fourconstraints_params.eps Graphic file (type eps)
+ <plots/newbranching/fourconstraints_params.eps>
+File: plots/newbranching/fourconstraints_masses.eps Graphic file (type eps)
+
+<plots/newbranching/fourconstraints_masses.eps>
+
+LaTeX Warning: Command \O invalid in math mode on input line 508.
+
+
+LaTeX Warning: Command \O invalid in math mode on input line 509.
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 525--540
+[]\OT1/cmr/bx/n/10 We se-lect mod-els for which $\OML/cmm/m/it/10 \OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 p[][]h[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
+ []
+
+[5]
+File: plots/newbranching/crosssec_vs_mukoverl_gg.eps Graphic file (type eps)
+ <plots/newbranching/crosssec_vs_mukoverl_gg.eps>
+File: plots/newbranching/crosssec_vs_mukoverl_bb.eps Graphic file (type eps)
+
+<plots/newbranching/crosssec_vs_mukoverl_bb.eps> [6]
+File: plots/acceptance_vs_mh.eps Graphic file (type eps)
+
+<plots/acceptance_vs_mh.eps>
+File: plots/acceptance_vs_ma.eps Graphic file (type eps)
+ <plots/acceptance_vs_ma.eps>
+Underfull \hbox (badness 4217) in paragraph at lines 1101--1110
+[]\OT1/cmr/bx/n/10 Requirement of four suf-fi-ciently en-er-getic
+ []
+
+File: plots/muon_pairs_masses.eps Graphic file (type eps)
+<plots/muon_pairs_masses.eps>
+File: plots/invariant_mass.eps Graphic file (type eps)
+ <plots/invariant_mass.eps>
+Underfull \hbox (badness 1132) in paragraph at lines 1195--1201
+\OT1/cmr/bx/n/10 prod-uct $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+pp[]h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 B[]B[] $\OT1/cmr/bx/n/10 , us-ing Bayes
+ian
+ []
+
+[7]
+File: plots/newbranching/newlhcconstraints_params.eps Graphic file (type eps)
+ <plots/newbranching/newlhcconstraints_params.eps>
+File: plots/newbranching/newlhcconstraints_masses.eps Graphic file (type eps)
+
+<plots/newbranching/newlhcconstraints_masses.eps>
+File: plots/newbranching/newlhcconstraints_crosbr.eps Graphic file (type eps)
+
+<plots/newbranching/newlhcconstraints_crosbr.eps> [8]
+Underfull \hbox (badness 2828) in paragraph at lines 1322--1326
+ []\OT1/cmr/bx/n/9 J. R. El-lis, J. F. Gu-nion, H. E. Haber,
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1396--1401
+ \OT1/cmr/bx/n/9 C. A. Savoy, Nucl. Phys. B 492 (1997) 21
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1432
+ []\OT1/cmr/bx/n/9 B. A. Do-brescu, G. L. Lands-berg and
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 1423--1432
+ \OT1/cmr/bx/n/9 K. T. Matchev, Phys. Rev. D 63, 075003
+ []
+
+[9]
+Underfull \hbox (badness 2828) in paragraph at lines 1449--1457
+ []\OT1/cmr/bx/n/9 J. R. El-lis, J. F. Gu-nion, H. E. Haber,
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 1458--1471
+ \OT1/cmr/bx/n/9 J. F. Gu-nion, C. Hugo-nie and S. Moretti,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1515
+ []\OT1/cmr/bx/n/9 A. Belyaev, S. Hes-sel-bach, S. Lehti,
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 ph/0404184]; D. G. Cer-deno, C. Hugo-
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 nie, D. E. Lopez-Fogliani, C. Munoz and
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 A. M. Teix-eira, JHEP 0412 (2004) 048
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 jema, C. Hugo-nie, A. Pukhov and A. Se-
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 menov, JCAP 0509, 001 (2005) [arXiv:hep-
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 and S. Pro-fumo, Phys. Rev. D 74, 115007
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 1517--1568
+ \OT1/cmr/bx/n/9 [arXiv:hep-ph/0701271]; C. Hugo-nie, G. Be-
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 1634--1639
+ []\OT1/cmr/bx/n/9 M. Spira, A. Djouadi, D. Grau-denz and
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 1661--1667
+ []\OT1/cmr/bx/n/9 A. Belyaev, J. Pumplin, W. K. Tung and
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 1678--1679
+ []\OT1/cmr/bx/n/9 G. Be-langer, F. Boud-jema, C. Hugo-nie, A.
+ []
+
+
+Overfull \hbox (67.1157pt too wide) in paragraph at lines 1696--1705
+ []$ 
+ []
+
+[10] (h2a.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 400 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 4008 strings out of 95305
+ 45704 string characters out of 1183738
+ 163609 words of memory out of 1500000
+ 7153 multiletter control sequences out of 110000
+ 13164 words of font info for 51 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 29i,10n,24p,1143b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on h2a.dvi (10 pages, 71400 bytes).
